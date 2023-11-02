@@ -3,15 +3,15 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/cf7902342e66ae071c7a7.jpg">
+  <img src="https://te.legra.ph/file/50131d5f2ff665829effe.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/MXNIHACKER/DevilXMusic/stargazers"><img src="https://img.shields.io/github/stars/MXNIHACKER/DevilXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/MXNIHACKER/DevilXMusic/network/members"> <img src="https://img.shields.io/github/forks/MXNIHACKER/DevilXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/MXNIHACKER/DevilXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/gamingbuddyyy/DevilXMusic/stargazers"><img src="https://img.shields.io/github/stars/gamingbuddyyy/DevilXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/gamingbuddyyy/DevilXMusic/network/members"> <img src="https://img.shields.io/github/forks/gamingbuddyyy/DevilXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/gamingbuddyyy/DevilXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/MXNIHACKER/DevilXMusic/commits/MXNIHACKER"> <img src="https://img.shields.io/github/last-commit/MXNIHACKER/DevilXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/gamingbuddyyy/DevilXMusic/commits/gamingbuddyyy"> <img src="https://img.shields.io/github/last-commit/gamingbuddyyy/DevilXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MXNIHACKER/DevilXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/gamingbuddyyy/DevilXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
