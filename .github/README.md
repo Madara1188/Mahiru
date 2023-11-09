@@ -3,10 +3,6 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/50131d5f2ff665829effe.jpg">
-</p>
-
-<p align="center">
 <a href="https://github.com/gamingbuddyyy/DevilXMusic/stargazers"><img src="https://img.shields.io/github/stars/gamingbuddyyy/DevilXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/gamingbuddyyy/DevilXMusic/network/members"> <img src="https://img.shields.io/github/forks/gamingbuddyyy/DevilXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/gamingbuddyyy/DevilXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
