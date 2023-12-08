@@ -1,30 +1,30 @@
 <h2 align="center">
-    ──  ˹WEEDLEAF ✗ 𝙈𝙐𝙎𝙄𝘾˼── 
+    ──  ˹DESTROYERS ✗ 𝙈𝙐𝙎𝙄𝘾˼── 
 </h2>
 
 <p align="center">
-<a href="https://github.com/gamingbuddyyy/DevilXMusic/stargazers"><img src="https://img.shields.io/github/stars/gamingbuddyyy/DevilXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/gamingbuddyyy/DevilXMusic/network/members"> <img src="https://img.shields.io/github/forks/gamingbuddyyy/DevilXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/gamingbuddyyy/DevilXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/madara1188/DevilXMusic/stargazers"><img src="https://img.shields.io/github/stars/madara1188/DevilXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/madara1188/DevilXMusic/network/members"> <img src="https://img.shields.io/github/forks/madara1188/DevilXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/madara1188/DevilXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/gamingbuddyyy/DevilXMusic/commits/gamingbuddyyy"> <img src="https://img.shields.io/github/last-commit/gamingbuddyyy/DevilXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/madara1188/DevilXMusic/commits/madara1188"> <img src="https://img.shields.io/github/last-commit/madara1188/DevilXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/50131d5f2ff665829effe.jpg">
+  <img src="https://te.legra.ph/file/7790ea46904ad9b6c8501.jpg">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/gamingbuddyyy/DevilXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/madara1188/DevilXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/gamingbuddyyy/DevilXMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/madara1188/DevilXMusic/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
