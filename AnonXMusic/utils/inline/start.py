@@ -12,7 +12,7 @@ def start_panel(_):
             ),
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
         ],
-        [   InlineKeyboardButton(text="🍃𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑🍃", url="https://t.me/Havasi_baba_opi"),
+        [   InlineKeyboardButton(text="🍃𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑🍃", url="https://t.me/CODEX_MADARA"),
         ]
     ]
     return buttons
