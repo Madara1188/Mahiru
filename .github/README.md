@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──  ˹DESTROYERS ✗ 𝙈𝙐𝙎𝙄𝘾˼── 
+    ──  ˹˹Mᴀʜɪʀᴜ✘ᴍᴜꜱɪᴄ ʙᴏᴛ˼ ˼── 
 </h2>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/938fbb759761ccb533fcc.jpg">
+  <img src="https://te.legra.ph/file/cf544648bc72d81ba34c7.jpg">
 </p>
 
 <h3 align="center">
@@ -24,7 +24,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/madara8811/DevilXMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/madara8811/DstXMusic/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
